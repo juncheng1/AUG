@@ -1,0 +1,19 @@
+常用的块状元素有：
+
+<div>、<p>、<h1>...<h6>、<ol>、<ul>、<dl>、<table>、<address>、<blockquote> 、<form>
+
+常用的内联元素有：
+
+<a>、<span>、<br>、<i>、<em>、<strong>、<label>、<q>、<var>、<cite>、<code>
+
+常用的内联块状元素有：
+
+<img>、<input>
+
+块联转变内联：{display:inline;}
+
+在html中<span>、<a>、<label>、 <strong> 和<em>就是典型的内联元素 ，通过display:block将元素显示为块级元素。
+
+在html中，<div>、 <p>、<h1>、<form>、<ul> 和 <li>就是块级元素。 可以通过代码display:inline将元素设置为内联元素
+
+内联块状元素（inline-block）就是同时具备内联元素、块状元素的特点，代码display:inline-block
