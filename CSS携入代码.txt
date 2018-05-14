@@ -1,23 +1,22 @@
-Ğ­Òé£º<style type="text/css">  </style>
- 
-1£ºfont-size:12px;£¨ÉèÖÃÎÄ×Ö×ÖºÅÎª12PX£©2£ºcolor:red;£¨ÉèÖÃÎÄ×ÖÎªºìÉ«£©3£ºfont-weight:bold;/normal(ÉèÖÃ×ÖÌå ¼Ó´ÖÕı³£)
-4£ºbackground-color£ºred£»£¨ÉèÖÃ±³¾°ÑÕÉ«ÎªºìÉ«£© 5£º/**/£¨CSSÀïµÄ×¢ÊÍ£© 
+åè®®ï¼š<style type =â€œtext / cssâ€> </ style> 
+1ï¼šfont-size:12px;ï¼ˆè®¾ç½®æ–‡å­—å­—å·ä¸º12PXï¼‰2ï¼šcolor:red;ï¼ˆè®¾ç½®æ–‡å­—ä¸ºçº¢è‰²ï¼‰3ï¼šfont-weight:bold;/normal(è®¾ç½®å­—ä½“ åŠ ç²—æ­£å¸¸)
+4ï¼šbackground-colorï¼šredï¼›ï¼ˆè®¾ç½®èƒŒæ™¯é¢œè‰²ä¸ºçº¢è‰²ï¼‰ 5ï¼š/**/ï¼ˆCSSé‡Œçš„æ³¨é‡Šï¼‰ 
   
-6£ºÄÚÁªÊ½£º<? style="¸ñÊ½"> ÄÚÈİ < ? >   
-£¨ÔÚbody±êÇ©Àï£©
+6ï¼šå†…è”å¼ï¼š<? style="æ ¼å¼"> å†…å®¹ < ? >   
+ï¼ˆåœ¨bodyæ ‡ç­¾é‡Œï¼‰
 
-7£º Ç¶Èë£º<style type="text/css">span{color:red;font-size:10px;} </style>
-£¨ÔÚhead±êÇ©Àï£©  
+7ï¼š åµŒå…¥ï¼š<style type="text/css">span{color:red;font-size:10px;} </style>
+ï¼ˆåœ¨headæ ‡ç­¾é‡Œï¼‰  
 
-8£ºÍâ²¿£º<link type="text/css" rel="stylesheet" href="£¿£¿.css">
-£¨ÔÚhead²»ÔÚstyle±êÇ©Àï£©      £¨´ËÎª ÊÇ¹Ì¶¨Ğ´·¨²»¿ÉĞŞ¸Ä£©
+8ï¼šå¤–éƒ¨ï¼š<link type="text/css" rel="stylesheet" href="ï¼Ÿï¼Ÿ.css">
+ï¼ˆåœ¨headä¸åœ¨styleæ ‡ç­¾é‡Œï¼‰      ï¼ˆæ­¤ä¸º æ˜¯å›ºå®šå†™æ³•ä¸å¯ä¿®æ”¹ï¼‰
 
-9£º¸ß¶È£º line-height£ºem/px ¡£×ÓÑ¡ÔñÆ÷£º¡°>¡±×÷ÓÃÓÚÔªËØµÄµÚÒ»´úºó´ú£¬¿Õ¸ñ×÷ÓÃÓÚÔªËØµÄËùÓĞºó´ú¡£
+9ï¼šé«˜åº¦ï¼š line-heightï¼šem/px ã€‚å­é€‰æ‹©å™¨ï¼šâ€œ>â€ä½œç”¨äºå…ƒç´ çš„ç¬¬ä¸€ä»£åä»£ï¼Œç©ºæ ¼ä½œç”¨äºå…ƒç´ çš„æ‰€æœ‰åä»£ã€‚
 
-10£ºbackgound-image:url(Ïà¶ÔµØÖ·orÍêÕûurl£©£»
-  £¨Í¼Ïñ·Å½ø±³¾°Í¼Àï£©
+10ï¼šbackgound-image:url(ç›¸å¯¹åœ°å€orå®Œæ•´urlï¼‰ï¼›
+  ï¼ˆå›¾åƒæ”¾è¿›èƒŒæ™¯å›¾é‡Œï¼‰
 
-11£ºbackground-repeat;no-repeat;  £¨repeat-y)     (repeat-x)      (inherit) 
-   (±³¾°£©  £¨ÖØ¸´£©£¨²»£©£¨ÖØ¸´£©£¨Ë®Æ½·½ÏòÖØ¸´£©£¨´¹Ö±·½ÏòÖØ¸´£© £¨°´¸¸ÔªËØ´¦Àí£©
-12£ºborder-radius:15px;
-   (±ß¿ò£© £¨Ô²½Ç£©
+11ï¼šbackground-repeat;no-repeat;  ï¼ˆrepeat-y)     (repeat-x)      (inherit) 
+   (èƒŒæ™¯ï¼‰  ï¼ˆé‡å¤ï¼‰ï¼ˆä¸ï¼‰ï¼ˆé‡å¤ï¼‰ï¼ˆæ°´å¹³æ–¹å‘é‡å¤ï¼‰ï¼ˆå‚ç›´æ–¹å‘é‡å¤ï¼‰ ï¼ˆæŒ‰çˆ¶å…ƒç´ å¤„ç†ï¼‰
+12ï¼šborder-radius:15px;
+   (è¾¹æ¡†ï¼‰ ï¼ˆåœ†è§’ï¼‰
