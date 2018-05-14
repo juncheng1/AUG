@@ -1,0 +1,23 @@
+协议：<style type="text/css">  </style>
+ 
+1：font-size:12px;（设置文字字号为12PX）2：color:red;（设置文字为红色）3：font-weight:bold;/normal(设置字体 加粗正常)
+4：background-color：red；（设置背景颜色为红色） 5：/**/（CSS里的注释） 
+  
+6：内联式：<? style="格式"> 内容 < ? >   
+（在body标签里）
+
+7： 嵌入：<style type="text/css">span{color:red;font-size:10px;} </style>
+（在head标签里）  
+
+8：外部：<link type="text/css" rel="stylesheet" href="？？.css">
+（在head不在style标签里）      （此为 是固定写法不可修改）
+
+9：高度： line-height：em/px 。子选择器：“>”作用于元素的第一代后代，空格作用于元素的所有后代。
+
+10：backgound-image:url(相对地址or完整url）；
+  （图像放进背景图里）
+
+11：background-repeat;no-repeat;  （repeat-y)     (repeat-x)      (inherit) 
+   (背景）  （重复）（不）（重复）（水平方向重复）（垂直方向重复） （按父元素处理）
+12：border-radius:15px;
+   (边框） （圆角）
